@@ -9,7 +9,7 @@ This project demonstrates SQL database design and query execution for a **Ticket
 The system consists of three main tables:
 
 ### Database Structure
-![Database Schema](https://github.com/Arun-DEV-prog/sql-practice/raw/main/schema-diagram.png)
+![Database Schema](https://i.ibb.co.com/DgYjDFT3/image.png)
 
 **Users Table**
 - Stores user information with role-based access
